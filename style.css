@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serif;
+    background-color: #1240AB;
+}
+
+img {
+    width: 300x;
+    height: 200px;
+    border-radius: 30px;
+    border: solid 10px #038A9D;
+}
+
+h1,ul,h3 {
+    text-align: center;
+    color: white;
+}
+
+header,main,footer {
+    background-color: #0870A2;
+    border-radius: 30px;
+    padding: 5px;
+    margin: 10px;
+}
